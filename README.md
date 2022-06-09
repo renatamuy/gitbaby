@@ -11,5 +11,6 @@ output: html_document
 - [x] repo hybrid workflow (repo folder manual, git init)
 - [x] read cheatsheets :tada:
 - [x] make tests origin
+- [x] commit comp
 - [ ] check gpg
 - [ ] ease out pull
